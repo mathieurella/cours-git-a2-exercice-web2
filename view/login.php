@@ -12,16 +12,16 @@
 				<form method="POST" action="login.php">
 					<div class="form-input">
 						<span class="email">
-							<input type="text" placeholder="Email">
+							<input type="text" placeholder="Email" name="Email" >
 						</span>
 					</div>
 					<div class="form-input">
 						<span class="password">
-							<input type="password" placeholder="Password">
+							<input type="password" placeholder="Password" name="password">
 						</span>
 					</div>
 					<div class="form-submit">
-						<input type="submit" value="Connecter">	
+						<input type="submit" value="Connecter" name="connecter">	
 					</div>
 					<p class="account">Vous n'avez pas de compte ? <a href="register.php">Inscrivez vous !</a></p>
 				</form>
