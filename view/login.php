@@ -12,7 +12,7 @@
 				<form method="POST" action="login.php">
 					<div class="form-input">
 						<span class="email">
-							<input type="text" placeholder="Email" name="Email" >
+							<input type="text" placeholder="Email" name="email" >
 						</span>
 					</div>
 					<div class="form-input">
