@@ -12,17 +12,17 @@
 				<form method="POST" action="register.php">
 					<div class="form-input">
 						<span class="username">
-							<input type="text" placeholder="Username">
+							<input type="text" placeholder="Username" name="username">
 						</span>
 					</div>
 					<div class="form-input">
 						<span class="email">
-							<input type="text" placeholder="Email">
+							<input type="text" placeholder="Email" name="email">
 						</span>
 					</div>
 					<div class="form-input">
 						<span class="password">
-							<input type="password" placeholder="Password">
+							<input type="password" placeholder="Password" name="password">
 						</span>
 					</div>
 
